@@ -1,0 +1,5 @@
+
+# Ignore dataset folders
+filmset/
+sample_data/
+*.zip
